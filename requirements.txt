@@ -10,4 +10,4 @@ pycparser==2.20
 pyparsing==2.4.7
 six==1.14.0
 soupsieve==2.0
-tinytag==1.4.0
+tinytag==2.2.1
